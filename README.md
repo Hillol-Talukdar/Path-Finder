@@ -1,6 +1,5 @@
 <h1>Path-Finder</h1>
-<p>The project Path Finder is a demonstration of finding the shortest path while avoiding the obstacles using AI (Artificial Intelligence). A* algorithm is used for finding the 
-shortest path, Pygame and Tkinter for visualization the whole process.</p>
+<h2>The project Path Finder is a demonstration of finding the shortest path while avoiding the obstacles using AI (Artificial Intelligence). A* algorithm is used for finding the shortest path, Pygame and Tkinter for visualization the whole process.</h2>
 
 <hr>
 
@@ -8,13 +7,13 @@ shortest path, Pygame and Tkinter for visualization the whole process.</p>
 
 <hr>
 
-<p>Main Menu<p>
+<h4>Main Menu</h4>
 
 ![save](https://user-images.githubusercontent.com/47820611/106951517-114e6500-675a-11eb-963a-c5099b24aae1.png)
 
 <hr>
 
-<p>Search Window</p>
+<h4>Search Window</h4>
 
 <p>After clicking the start button this window will start.<p>
 
@@ -22,7 +21,7 @@ shortest path, Pygame and Tkinter for visualization the whole process.</p>
 
 <hr>
 
-<p>Select Source, Destination, Obstacles<p>
+<h4>Select Source, Destination, Obstacles<h4>
 
 <p>First click on the grid will consider as a source(CYAN Colored), second one as a destination(MAGENTA Colored) and others are obstacles(RED colored).<p>
 
@@ -30,7 +29,7 @@ shortest path, Pygame and Tkinter for visualization the whole process.</p>
 
 <hr>
 
-<p>After Shortest Path Found<p>
+<h4>After Shortest Path Found<h4>
 <p>LIME colored path is showing the shortest path avoiding the obstacles. White colored cells are visited cells during the search. Pop-up dialoges will show the path find status.</p>
 
 ![shortest_path_found](https://user-images.githubusercontent.com/47820611/106952146-e87a9f80-675a-11eb-8f2c-0768cc5ef190.png)
